@@ -1,4 +1,3 @@
-  ![Group 716](https://github.com/user-attachments/assets/ce9687df-5dff-45b8-b904-eb78382663c9)
 
 ## Hi there 👋 I'm Veera V
 "A passionate data analyst 📊"
